@@ -43,3 +43,4 @@ int main()
 	cin >> a;
 	func(a);
 }
+ 
